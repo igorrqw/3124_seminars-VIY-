@@ -42,16 +42,15 @@ void PrintMatrix(int[,] matrix,  int x,  int y)
     
     int height = matrix.GetLength(0);
     int width = matrix.GetLength(1);
-    if (y >= height || x >= width)
+    if (y < width && x < height)
     {
-        Console.WriteLine("такого числа в массиве нет");
+        Console.WriteLine(matrix[x, y]);
     }
     else
     {
-       Console.WriteLine(matrix[x, y]); 
+       Console.WriteLine("такого числа в массиве нет");
     }
 }   
-
 
 int x = ReadNumber("Введите номер строки");
 int y = ReadNumber("Введите номер элемента");
