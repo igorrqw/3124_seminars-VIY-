@@ -1,0 +1,15 @@
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\bin\Debug\net6.0\task68.exe
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\bin\Debug\net6.0\task68.deps.json
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\bin\Debug\net6.0\task68.dll
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\bin\Debug\net6.0\task68.pdb
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.dll
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\refint\task68.dll
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.pdb
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\Users\Игорь\Desktop\3124_VIY\3124_seminars-VIY-\Homework9\task68\obj\Debug\net6.0\ref\task68.dll
