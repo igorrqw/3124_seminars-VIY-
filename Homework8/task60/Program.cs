@@ -9,7 +9,7 @@
 
 int[,,] arr = new int [2,2,2];
 Random rand = new Random();
-int[] array = new int [4];
+int[] array = new int [8];
 
 for (int i = 0; i < array.Length; i++)
 {
